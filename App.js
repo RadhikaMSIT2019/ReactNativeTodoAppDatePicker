@@ -90,7 +90,7 @@ export default class App extends React.Component {
   }
 
   render() {
-    
+
     return (
       <View style={[styles.appContainer, styles.fill]}>
         <Text style={[styles.heading]}>ToDo List</Text>
